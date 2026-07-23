@@ -1,13 +1,21 @@
-# webpack-template
+# Battleship Again
 
-basic webpack config
+Recreating battleship from scratch
 
-## setup
+## TODO
+
+- [x] Ship class
+- [x] Gameboard class
+- [x] Player class
+- [ ] Game class
+  - [ ] figure out how to structure the logic
+
+## Setup
 
 - update git repo in `package.json`
 - `npm i`
 
-## packages
+## Packages
 
 - "@babel/core": "^7.27.1",
 - "@babel/preset-env": "^7.27.2",
